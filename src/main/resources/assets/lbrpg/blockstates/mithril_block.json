@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "lbrpg:block/mithril_block"
+    }
+  }
+}
