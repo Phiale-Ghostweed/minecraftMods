@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "orichalcon_ingot",
+  "ingredients": [
+    {
+      "item": "lbrpg:orichalcon_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "lbrpg:orichalcon_ingot"
+  }
+}

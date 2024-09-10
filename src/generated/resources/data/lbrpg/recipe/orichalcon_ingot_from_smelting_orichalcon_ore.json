@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "orichalcon_ingot",
+  "ingredient": {
+    "item": "lbrpg:orichalcon_ore"
+  },
+  "result": {
+    "id": "lbrpg:orichalcon_ingot"
+  }
+}

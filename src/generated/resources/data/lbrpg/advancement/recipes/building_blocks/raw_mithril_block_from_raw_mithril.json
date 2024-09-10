@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_mithril": {
+      "conditions": {
+        "items": [
+          {
+            "items": "lbrpg:raw_mithril"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "lbrpg:raw_mithril_block_from_raw_mithril"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_raw_mithril"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "lbrpg:raw_mithril_block_from_raw_mithril"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "orichalcon_ingot",
+  "ingredient": {
+    "item": "lbrpg:deepslate_orichalcon_ore"
+  },
+  "result": {
+    "id": "lbrpg:orichalcon_ingot"
+  }
+}
